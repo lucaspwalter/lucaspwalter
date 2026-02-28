@@ -24,7 +24,7 @@ Em início de carreira na área de tecnologia, apresent base formal em desenvolv
 
 ---
 
-## 🧠 O que eu faco
+## 🧠 O que eu faço
 
 - 🏗️ Estudante de Engenharia de Software
 - ⚡ Formado com Técnico em Desenvolvimento de Sistemas
