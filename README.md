@@ -2,7 +2,7 @@
 
 🚀 **Cursando Bacharelado de Engenharia de Software | Tecnico em Desenvolvimento de Sistemas**
 
-Em início de carreira na área de tecnologia, apresenta base formal em desenvolvimento de sistemas, com formação técnica estruturada e continuidade acadêmica em nível superior. Demonstro direcionamento para consolidação de fundamentos em programação, engenharia de software e arquitetura de sistemas, com foco em evolução técnica e profissional de longo prazo.
+Em início de carreira na área de tecnologia, apresento base formal em desenvolvimento de sistemas, com formação técnica estruturada e continuidade acadêmica em nível superior. Demonstro direcionamento para consolidação de fundamentos em programação, engenharia de software e arquitetura de sistemas, com foco em evolução técnica e profissional de longo prazo.
 
 ---
 
