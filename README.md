@@ -1,4 +1,4 @@
-# Ola 👋, Me chamo Lucas Pereira Walter
+# Opa 👋, Me chamo Lucas Pereira Walter
 
 🚀 **Cursando Bacharelado de Engenharia de Software | Tecnico em Desenvolvimento de Sistemas**
 
