@@ -9,9 +9,6 @@ Em início de carreira na área de tecnologia, apresento base formal em desenvol
 ## 🌐 Onde me encontrar
 
 <p align="left">
-  <a href="https://github.com/lucaspwalter">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SEUUSERNAME" />
-  </a>
     <a href="https://instagram.com/lucaaswll">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/SEUUSERNAME" />
   </a>
