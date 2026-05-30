@@ -1,4 +1,4 @@
-# Opa 👋, Me chamo Lucas Pereira Walter
+# 👋, Me chamo Lucas Pereira Walter
 
 🚀 **Cursando Bacharelado de Engenharia de Software | Tecnico em Desenvolvimento de Sistemas**
 
@@ -37,5 +37,6 @@ Em início de carreira na área de tecnologia, apresento base formal em desenvol
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=000)
+
 
 ---
