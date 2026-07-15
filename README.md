@@ -1,12 +1,12 @@
-# 👋, Me chamo Lucas Pereira Walter
+# 👋 Hi, I'm Lucas Pereira Walter
 
-🚀 **Cursando Bacharelado de Engenharia de Software | Tecnico em Desenvolvimento de Sistemas**
+🚀 **Software Engineering Bachelor's Student | Systems Development Technician**
 
-Em início de carreira na área de tecnologia, apresento base formal em desenvolvimento de sistemas, com formação técnica estruturada e continuidade acadêmica em nível superior. Demonstro direcionamento para consolidação de fundamentos em programação, engenharia de software e arquitetura de sistemas, com foco em evolução técnica e profissional de longo prazo.
+I am starting my career in technology with a formal foundation in systems development, structured technical training, and ongoing higher education. I am focused on strengthening my knowledge of programming, software engineering, and systems architecture while pursuing long-term technical and professional growth.
 
 ---
 
-## 🌐 Onde me encontrar
+## 🌐 Find me online
 
 <p align="left">
     <a href="https://instagram.com/lucaaswll">
@@ -21,16 +21,16 @@ Em início de carreira na área de tecnologia, apresento base formal em desenvol
 
 ---
 
-## 🧠 O que eu faço
+## 🧠 What I do
 
-- 🏗️ Estudante de Engenharia de Software
-- ⚡ Formado com Técnico em Desenvolvimento de Sistemas
-- 🧩 Estudando para Programador FullStack
-- 🤖 Estudando Automação de Workflows
+- 🏗️ Software Engineering student
+- ⚡ Systems Development Technician
+- 🧩 Studying full-stack development
+- 🤖 Studying workflow automation
 
 ---
 
-### Tecnologias
+### Technologies
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
