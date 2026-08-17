@@ -1,17 +1,17 @@
 # Lucas Pereira Walter
 
-Software Engineering student and Systems Development Technician focused on building reliable, practical software.
+Estudante de Engenharia de Software e Técnico em Desenvolvimento de Sistemas, focado em criar software confiável e prático.
 
-## About Me
+## Sobre mim
 
-I am building my career on formal training in systems development and ongoing higher education in Software Engineering. My work focuses on strengthening foundations in programming, software engineering, systems architecture, and automation.
+Estou construindo minha carreira com formação em desenvolvimento de sistemas e graduação em Engenharia de Software. Meu trabalho concentra-se em programação, engenharia de software, arquitetura de sistemas e automação.
 
-## Current Focus
+## Foco atual
 
-- Full-stack software development
-- Backend systems and APIs
-- Workflow automation
-- Software architecture and engineering practices
+- Desenvolvimento de software full-stack
+- Sistemas backend e APIs
+- Automação de fluxos
+- Arquitetura de software e práticas de engenharia
 
 ## Tech Stack
 
@@ -24,7 +24,7 @@ I am building my career on formal training in systems development and ongoing hi
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
-## Connect
+## Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucaspereirawalter/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lukas.lukas.walter@gmail.com)
