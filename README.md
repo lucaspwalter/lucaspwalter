@@ -13,7 +13,7 @@ Estou construindo minha carreira com formação em desenvolvimento de sistemas e
 - Automação de fluxos
 - Arquitetura de software e práticas de engenharia
 
-## Tech Stack
+## Tecnologias
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
